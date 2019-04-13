@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mulix", "Mulix\Mulix.csproj", "{03BC9268-CAB0-4F42-AA20-8257B03D1793}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "Installer", "Installer\Installer.wixproj", "{BF42CEB9-0EB6-47FF-B0D3-48D8BD8A4D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BC9268-CAB0-4F42-AA20-8257B03D1793}.Debug|x86.ActiveCfg = Debug|x86
+		{03BC9268-CAB0-4F42-AA20-8257B03D1793}.Debug|x86.Build.0 = Debug|x86
+		{03BC9268-CAB0-4F42-AA20-8257B03D1793}.Release|x86.ActiveCfg = Release|x86
+		{03BC9268-CAB0-4F42-AA20-8257B03D1793}.Release|x86.Build.0 = Release|x86
+		{BF42CEB9-0EB6-47FF-B0D3-48D8BD8A4D86}.Debug|x86.ActiveCfg = Debug|x86
+		{BF42CEB9-0EB6-47FF-B0D3-48D8BD8A4D86}.Debug|x86.Build.0 = Debug|x86
+		{BF42CEB9-0EB6-47FF-B0D3-48D8BD8A4D86}.Release|x86.ActiveCfg = Release|x86
+		{BF42CEB9-0EB6-47FF-B0D3-48D8BD8A4D86}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB1D4B9-500A-4A74-AD32-F15EF0B0FCD4}
+	EndGlobalSection
+EndGlobal
